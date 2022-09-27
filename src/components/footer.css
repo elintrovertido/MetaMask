@@ -1,0 +1,20 @@
+.foot{
+    position: absolute;
+    width: 100%;
+    background: #000000;
+    bottom:0;
+    height: 2rem;
+    color : white;
+    text-align: center;
+  }
+
+  a{
+        text-decoration: none;
+        color:aliceblue;
+        background: #000000;
+        
+  }
+
+  a:hover{
+      color:yellow;
+  }

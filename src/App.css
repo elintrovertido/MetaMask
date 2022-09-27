@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  background: #fdfdfd;
+}
+.container{
+  margin-top: 10%;
+}
+
+.card-header{
+  font-size: large;
+  font-weight: bolder;
+  background-color: #FFC090;
+}
+
+.card-body{
+  background: #F7F6DC;
+}
+.card-title{
+  background: #F7F6DC;;
+}
+
+.x{
+  margin-left: 40%;
+}
