@@ -75,6 +75,7 @@ function Main() {
 
 
     const reload = () => {
+        
         setSendFlag(0)
         window.location.reload()
     }
